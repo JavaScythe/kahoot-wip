@@ -1,6 +1,11 @@
 function log(a) {
   console.log(a);
 }
+/*
+TODO:
+API Bridge for Kahoot API
+Executor script for answers
+*/
 var aws = {};
 async function main(id) {
   var json;
