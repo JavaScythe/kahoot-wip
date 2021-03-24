@@ -5,6 +5,16 @@ function log(a) {
 TODO:
 API Bridge for Kahoot API
 Executor script for answers
+
+structure
+
+gameStart:
+getQuestions
+LOOP{
+getCurQues
+compute aws
+await the question answer start
+1,2,3,4 button click
 */
 var aws = {};
 async function main(id) {
